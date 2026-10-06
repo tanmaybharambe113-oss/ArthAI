@@ -1,0 +1,2 @@
+# ArthAI
+Finance tracker
